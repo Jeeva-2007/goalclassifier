@@ -288,6 +288,4 @@ Built with:
 
 **Happy Goal Classifying! 🎯✨**
 
-=======
-# goalclassifier
->>>>>>> ec204118bfa4f2157ad04d519eee16980ce43871
+
